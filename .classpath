@@ -34,5 +34,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/tomcat/apache-tomcat-7.0.59/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0/lib/tools.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
