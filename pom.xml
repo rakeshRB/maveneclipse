@@ -18,7 +18,7 @@
       <groupId>tomcat</groupId>
       <artifactId>servlet-api</artifactId>
       <version>5.5.23</version>
-    </dependency>
+	</dependency>
 <dependency>
       <groupId>org.eclipse</groupId>
       <artifactId>uml2tools</artifactId>
