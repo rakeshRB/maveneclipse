@@ -42,7 +42,7 @@ public class TestServlet extends HttpServlet {
     x = Integer.parseInt(a);
     y = Integer.parseInt(b);           
     sum = AdditionLogic.addition(x,y);            
-    out.println("Hello!" + name + "The sum is" + sum);     
+    out.println("Hello! team" + name + "The sum is" + sum);     
     out.close();
     }
 
