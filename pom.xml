@@ -14,6 +14,16 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+      <groupId>tomcat</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>5.5.23</version>
+    </dependency>
+<dependency>
+      <groupId>org.eclipse</groupId>
+      <artifactId>uml2tools</artifactId>
+      <version>0.7.0-v200707030850</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>mavenproj</finalName>
