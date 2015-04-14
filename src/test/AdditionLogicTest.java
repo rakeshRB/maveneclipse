@@ -8,7 +8,7 @@ public class AdditionLogicTest {
 
 	@Test
 	public final void testAddition() {
-		assertEquals("10+30 must be 40",20, AdditionLogic.addition(10,30));
+		assertEquals("10+30 must be 40",40, AdditionLogic.addition(10,30));
 		assertEquals("30+30 must be 60",60, AdditionLogic.addition(30,30));
 		assertEquals("0+30 must be 30",30, AdditionLogic.addition(0,30));	
 	}
